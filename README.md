@@ -29,3 +29,7 @@ Ici il y a deux moteurs pour séparer l’ouverture et l’appuis, en plus de ce
   ![composants](https://user-images.githubusercontent.com/81251092/173064087-bf4a52f4-0226-4ce5-9931-c58fadbb40ae.png)
 
 </ul>
+<h2>Modelisation de la boite<h2>
+<p>Pour la boite j'ai décidé de la modéliser moi même en 3d sur Fusion et après l'imprimer à Dagoma<p>
+  Ici une image du premier Prototype:
+![Useless box v2](https://user-images.githubusercontent.com/81251092/174624593-e41d2b72-3b1d-464a-bd9f-1f571b49954d.png)
