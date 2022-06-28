@@ -1,5 +1,5 @@
 # Useless_box
-This is a project where i create a Useless box 
+This is a project where I build a Useless box 
 
 <h1>Etape 1 R&D</h1>
 <h2>Exemples:</h2> 
